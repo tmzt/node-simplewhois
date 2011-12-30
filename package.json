@@ -2,7 +2,7 @@
 	"name": "node-simplewhois",
 	"author": "David Coallier",
 	"email": "david.coallier@gmail.com",
-	"dependencies": ['net'],
+	"dependencies": ["net"],
 	"contributors": [],
 	"keywords": [
             "whois",
